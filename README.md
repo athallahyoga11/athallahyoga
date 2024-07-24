@@ -22,6 +22,7 @@ I'm currently active as a third year Information Technology Student at Institut 
   <a href="https://mysql.com/"><img align="left" alt="Sql" title="Sql" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" /></a>
   <a href="https://firebase.google.com/"><img align="left" alt="Firebase" title="Firebase" width="21px" src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63018721094449d9901f5875_cff297d7.png" /></a>
   <a href="https://figma.com/"><img align="left" alt="Figma" title="Figma" width="21px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" /></a>
+  <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" /></a>\
   <br>
   <br>
   
